@@ -1,9 +1,14 @@
-### Log Highlighter
+# Log Highlighter
 Help to highlight logs in your development
 
 Now only for **Firefox**
 
-### How to run in development mode
+## How to install
+Open [Releases](https://github.com/GulDilin/log-highlighter-web-ext/releases)
+Download one of versions and open in Firefox
+
+
+## How to run in development mode
 
 - install **npm**
 - `npm install --global web-ext`
@@ -11,7 +16,7 @@ Now only for **Firefox**
 
 Then firefox opens window with installed add-on
 
-### How to use add-on
+## How to use add-on
 It is prepared for strict text format (most useful for files)
 
 highlights strigns wich
